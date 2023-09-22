@@ -1,6 +1,5 @@
 # Sortify
-Sorting Visualizer
-Sorting Visualizer Demo
+![image](https://github.com/khushi2905kumari/Sortify/assets/112396675/346ec59f-f85b-4b49-9194-866baed93a5a)
 
  # Overview
 The Sorting Visualizer is an interactive web application that provides a visual representation of various sorting algorithms. It allows users to observe and understand how different sorting algorithms operate step by step.
