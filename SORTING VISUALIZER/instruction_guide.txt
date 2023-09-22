@@ -1,6 +1,0 @@
-everything is same in bubblesort.html , selectionsort.html, insertionsort.html files,
-    just there is only change in attaching the javascript file in the bottom of respective html code
-
-
-similarly everything is same in bubblesort.js , selectionsort.js, insertionsort.js files,
-    just there is only change in sorting algorithm function code.
