@@ -28,10 +28,10 @@ The following sorting algorithms are implemented in this project:
 
 # Getting Started
 Clone the repository:
-                    git clone https://github.com/your-username/sorting-visualizer.git
+ - git clone https://github.com/khushi2905kumari/sortify.git
 
 Open the Visualizer:
-    - Open index.html in your preferred web browser.
+ - Open index.html in your preferred web browser.
 
 
 # Contributing
