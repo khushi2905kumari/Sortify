@@ -10,6 +10,8 @@ The Sorting Visualizer is an interactive web application that provides a visual 
  - Customizable Settings: Adjust array size and visualization speed for a tailored experience.
 
  # How to Use
+ ![image](https://github.com/khushi2905kumari/Sortify/assets/112396675/9bdef3fe-1b0b-41aa-ba91-db6f1be19f7e)
+
  - Select Algorithm: Choose a sorting algorithm from the dropdown menu.
  - Adjust Settings:
     - Set the array size using the slider.
